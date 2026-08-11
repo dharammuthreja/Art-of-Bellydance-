@@ -1,0 +1,3 @@
+Mobile homepage follows the approved reference image:
+NAV -> smaller hero image -> JOIN ONLINE/JOIN OFFLINE -> headline/copy -> Instagram/WhatsApp/YouTube/Email -> Gallery.
+Desktop homepage remains unchanged.
